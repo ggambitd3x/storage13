@@ -1,5 +1,9 @@
 test2
 some change in branch 1
+<<<<<<< HEAD
 some change in branch 2
 some change in branch 3
 some change in branch 4
+=======
+some change in branch 2
+>>>>>>> parent of 7380e9b... text
